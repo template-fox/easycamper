@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 * {
-    /* font-family: 'Inter', 'Lato', 'Open Sans', monospace; */
+    font-family: 'Montserrat', monospace;
 }
 
 [x-cloak] { display: none; }
